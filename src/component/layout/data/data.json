@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Aarush Bhadury",
+    "avatar_url": "https://robohash.org/1",
+    "class": "3 SJh",
+    "instruments": "drums",
+    "email": "",
+    "parents": {
+      "father": "",
+      "mother": "Shalini Bhadury"
+    },
+    "parents_email": "shalini.a.bhadury@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Aarush Gupta",
+    "avatar_url": "https://robohash.org/2",
+    "class": "4 JPa",
+    "instruments": "drums",
+    "email": "",
+    "parents": {
+      "father": "Shikha Gupta",
+      "mother": ""
+    },
+    "parents_email": "shikha2312@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Adeesh Praveen",
+    "avatar_url": "https://robohash.org/3",
+    "class": "3 DWn",
+    "instruments": "drums",
+    "email": "",
+    "parents": {
+      "father": "",
+      "mother": "Aparna Praveen"
+    },
+    "parents_email": "aparnna.praveen@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Advaith Maganti",
+    "avatar_url": "https://robohash.org/4",
+    "class": "9 CHn",
+    "instruments": "drums/percussion",
+    "email": "magan73087@gapps.uwcsea.edu.sg",
+    "parents": {
+      "father": "",
+      "mother": "Deepali Maganti"
+    },
+    "parents_email": "deepali_maganti@yahoo.co.in"
+  },
+  {
+    "id": 5,
+    "name": "Aman Vishwanath",
+    "avatar_url": "https://robohash.org/5",
+    "class": "10 VWi",
+    "instruments": "drums",
+    "email": "vishw32919@gapps.uwcsea.edu.sg",
+    "parents": {
+      "father": "",
+      "mother": "Anjum Motiwala"
+    },
+    "parents_email": "anjummotiwala@yahoo.com"
+  }
+]
